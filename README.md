@@ -17,7 +17,7 @@ The model is inspired by **Sully Chen’s behavioral cloning project** and updat
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 - Trained on **~70,000 labeled frames (~2.2 GB)** with steering angles.
 - Dataset can be collected using:
@@ -29,7 +29,7 @@ The model is inspired by **Sully Chen’s behavioral cloning project** and updat
 
 ---
 
-## 📊 Training Details
+## Training Details
 
 - **Model Architecture**: 5 Convolutional layers + Fully Connected layers → 1 steering output  
 - **Loss Function**: Mean Squared Error (MSE)  
@@ -41,13 +41,7 @@ The model is inspired by **Sully Chen’s behavioral cloning project** and updat
 
 ---
 
-## Installation & Setup
+## Demo Video
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/AdarshSorout/Self-Driving-Car-using-NVIDIA-s-End-to-End-CNN-Model.git
-   cd Self-Driving-Car-using-NVIDIA-s-End-to-End-CNN-Model
-
-## Demo Video 🎥
-[![Demo Video]([https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://youtu.be/Uf29VDFiUs8)]
+https://github.com/user-attachments/assets/163f9151-75ee-413c-93ce-a74e772237ee
 # Self_Driving_Car_END-to-End-Lane-Following
