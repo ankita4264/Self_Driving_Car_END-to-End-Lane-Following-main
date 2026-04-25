@@ -1,11 +1,11 @@
-# 🚗 Self-Driving Car – End-to-End Lane Following
+# Self-Driving Car – End-to-End Lane Following
 
 This project implements an **end-to-end self-driving car** using **NVIDIA’s CNN architecture** to map **raw camera images directly to steering angles**.  
 The model is inspired by **Sully Chen’s behavioral cloning project** and updated to **TensorFlow 2.x / Keras**.
 
 ---
 
-## 🚀 Features
+## Features
 
 - **End-to-end CNN** for autonomous lane following (NVIDIA DAVE-2 style).
 - **TensorFlow 2.x + Keras** implementation for modern compatibility.
@@ -41,7 +41,7 @@ The model is inspired by **Sully Chen’s behavioral cloning project** and updat
 
 ---
 
-## 🛠 Installation & Setup
+## Installation & Setup
 
 1. **Clone the repository:**
    ```bash
